@@ -9,3 +9,5 @@ Due to the Altimeter hardware being limited to refreshing at 1Hz, the vertical d
 1. Press and hold the large circle button with the action figure.
 2. Jump and ensure the device is held in the same place so that the relative vertical displacement can be measured
 3. Let go of the button
+
+![Image of VertTracker](https://github.com/awong503/VertTracker/blob/main/VertTracker.png)
